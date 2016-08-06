@@ -1,0 +1,33 @@
+_repo: Kitty-s-Class-Day-and-Other-Stories_10360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Kitty's class day -- Aunt Kipp -- Psyche's art -- A country Christmas
+  -- On picket duty -- The baron's gloves -- My red cap -- What the bells saw and
+  said.
+title: Kitty's Class Day and Other Stories
+url: http://www.gutenberg.org/ebooks/10360
